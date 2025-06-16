@@ -8,6 +8,7 @@ Now I build tools that support a greener world — one project at a time.
 
 ### 🔧 What I Build
 - ♻️ [CO₂ Savings Calculator](https://github.com/hanif-azhar/co2-savings-calculator) — Python + Kivy desktop app to calculate emissions saved from recycling
+- 🧪 Side Experiments [Toxic Boss Simulator](https://github.com/hanif-azhar/toxic-boss-simulator): A fake boss chat app. Because therapy is expensive.
 - 🌐 Web apps & dashboards (coming soon)
 - 📊 Data tools for sustainability, lifecycle analysis, circular economy
 
@@ -22,10 +23,10 @@ Now I build tools that support a greener world — one project at a time.
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 
-### 📈 Current Goals
-- Build more tools around **climate tech**, **carbon footprint**, and **waste management**
-- Learn Streamlit, Flask, or Django for clean web deployment
-- Push my coding + sustainability career to the next level 🚀
+- Build tools around **climate tech**, **carbon footprint**, and **waste management**
+- Learn **Streamlit**, **Flask**, or **Django** for smooth web deployment
+- Push my **coding + sustainability** career to the next level 🚀
+- Keep merging green values with tech, one quirky app at a time
 
 ---
 
