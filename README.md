@@ -27,15 +27,15 @@ Intelligence Suite.
   architecture (Tech, Cement, Logistics, Pharma)
 
 - 📋 [Compliya](https://github.com/hanif-azhar/compliya) — 
-  ESG compliance & readiness platform for Indonesian 
+  (on Progress) ESG compliance & readiness platform for Indonesian 
   companies. OJK/POJK 51 · TCFD · ASEAN Taxonomy
 
 - 🔬 [Tracera](https://github.com/hanif-azhar/tracera) — 
-  Life Cycle Assessment platform for SEA manufacturers. 
+  (on Progress) Life Cycle Assessment platform for SEA manufacturers. 
   ISO 14040/44 · EN 15804 EPD · CBAM compliance
 
 - 💹 [Carvex](https://github.com/hanif-azhar/carvex) — 
-  Carbon strategy & market intelligence platform. 
+ (on Progress) Carbon strategy & market intelligence platform. 
   MACC · Internal Carbon Pricing · Cap-and-Trade · 
   Bursa Karbon Indonesia
 
