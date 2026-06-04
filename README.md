@@ -1,41 +1,91 @@
 <h1 align="center">Hey, I'm Hanif 👋</h1>
-<h3 align="center"> Python Dev • Climate Nerd • Sustainability Advocate 🌱</h3>
+<h3 align="center">
+  Chemical & Environmental Engineer · Full-Stack Dev · 
+  Climate Tech Builder 🌱
+</h3>
 
 ---
 
-🌍 I'm a chemical & environmental engineer who fell in love with **clean code** and **clean energy**.  
-Now I build tools that support a greener world — one project at a time.
+🌍 Chemical & environmental engineer turned 
+climate tech founder (soon lol). I build SaaS products at the 
+intersection of sustainability science and software — 
+with deep expertise in GHG Protocol, carbon accounting, 
+LCA methodology, and Southeast Asian regulatory frameworks.
 
-### 🔧 What I Build
-- ♻️ [CO₂ Savings Calculator](https://github.com/hanif-azhar/co2-savings-calculator) — Python + Kivy desktop app to calculate emissions saved from recycling
-- 🧪 Side Experiments [Toxic Boss Simulator](https://github.com/hanif-azhar/toxic-boss-simulator): A fake boss chat app. Because therapy is expensive.
-- 🌐 Web apps & dashboards (coming soon)
-- 📊 Data tools for sustainability, lifecycle analysis, circular economy
+Currently building **Lunavia** — Southeast Asia's ESG 
+Intelligence Suite.
 
-### 🧰 Languages & Tools
-🛠️ Languages & Tools
+---
+
+### 🚀 What I'm Building
+
+**Lunavia ESG Suite**
+
+- 🌿 [Emitly](https://github.com/hanif-azhar/emitly) — 
+  Modular carbon accounting SaaS for SEA industries. 
+  GHG Protocol · WBCSD CSI · Multi-industry plugin 
+  architecture (Tech, Cement, Logistics, Pharma)
+
+- 📋 [Compliya](https://github.com/hanif-azhar/compliya) — 
+  ESG compliance & readiness platform for Indonesian 
+  companies. OJK/POJK 51 · TCFD · ASEAN Taxonomy
+
+- 🔬 [Tracera](https://github.com/hanif-azhar/tracera) — 
+  Life Cycle Assessment platform for SEA manufacturers. 
+  ISO 14040/44 · EN 15804 EPD · CBAM compliance
+
+- 💹 [Carvex](https://github.com/hanif-azhar/carvex) — 
+  Carbon strategy & market intelligence platform. 
+  MACC · Internal Carbon Pricing · Cap-and-Trade · 
+  Bursa Karbon Indonesia
+
+**Other Projects**
+
+- 🧠 [Cognitia](https://github.com/hanif-azhar/cognitia) — 
+  CBT-based journaling app built on clinical psychology 
+  framework. Validated by psychologist. EN/ID bilingual.
+
+- 🏭 [Kilnify](https://github.com/hanif-azhar/kilnify) — 
+  Cement-specific GHG accounting tool. 9-module 
+  calculation engine · WBCSD CSI · PLN RUPTL 2023
+
+---
+
+### 🧰 Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Kivy](https://img.shields.io/badge/Kivy-000000?style=flat&logo=kivy&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) 
-
-
-- Build tools around **climate tech**, **carbon footprint**, and **waste management**
-- Learn **Streamlit**, **Flask**, or **Django** for smooth web deployment
-- Push my **coding + sustainability** career to the next level 🚀
-- Keep merging green values with tech, one quirky app at a time
 
 ---
 
-📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/hanif-nur-azhar/)  
-🛠️ Always building. Always learning.
+### 🧠 Domain Expertise
+
+`GHG Protocol` `WBCSD CSI` `ISO 14040/44` `IPCC AR6`  
+`OJK/POJK 51` `TCFD` `ASEAN Taxonomy` `CBAM`  
+`Carbon Markets` `MACC` `LCA` `EPD` `PLN RUPTL 2023`
 
 ---
 
-*“Tech alone can’t save the planet — but the right tools can help us try.”* 
+### 📍 Currently
+
+- 🏗️ Building Lunavia — SEA's ESG Intelligence Suite
+- 🌏 Based in Indonesia · Targeting SEA market
+- 🤝 Open to ESG consulting & climate tech collaboration
+
+---
+
+📫 [LinkedIn](https://www.linkedin.com/in/hanif-nur-azhar/)  
+🛠️ Always building. Always shipping.
+
+---
+
+*"The best climate tools are the ones actually used —  
+so I build for real companies, real regulations,  
+and real Southeast Asian context."*
