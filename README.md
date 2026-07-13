@@ -82,6 +82,7 @@ Intelligence Suite.
 ---
 
 📫 [LinkedIn](https://www.linkedin.com/in/hanif-nur-azhar/)  
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M0Z3234AEA)
 🛠️ Always building. Always shipping.
 
 ---
